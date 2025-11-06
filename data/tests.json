@@ -1,0 +1,32 @@
+[
+  {
+    "question": "facebookni kim yaratgan",
+    "options": {
+      "a": "ilon mask",
+      "b": "mark sukerberg",
+      "c": "bil geyts",
+      "d": "mendeleyev"
+    },
+    "correct": "b"
+  },
+  {
+    "question": "youtube nechanchi yilda yaratilgan",
+    "options": {
+      "a": "2011",
+      "b": "2023",
+      "c": "2005",
+      "d": "2007"
+    },
+    "correct": "c"
+  },
+  {
+    "question": "alifboda nechta harf bor",
+    "options": {
+      "a": "29",
+      "b": "21",
+      "c": "30",
+      "d": "31"
+    },
+    "correct": "a"
+  }
+]
